@@ -5,4 +5,4 @@ Basics of EDA- Data Analysis
 ## 2.Bivariate Analysis
 ## 3.Standarization
 ## 4.Column Transformation-Scikit Learn new function
-## Transformation- Log transform/Polynomial Transformation
+## 5.Transformation- Log transform/Polynomial Transformation
